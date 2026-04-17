@@ -1,7 +1,10 @@
 /*
-	Programa que realiza conversiones de unidades
-	El usuario elegira entre las opciones dadas por un menú interactivo
-	y el programa le dara el resultado correspondiente a la opcion elegida
+    ********************************************************************************************************************
+    /   Nombre_Archivo : Calculadora de Conversion
+    /   Descrpcion : Proyecto Calculadora de concersion en base a un menu interactivo con funciones
+    /   Creado : 6/4/2026
+    /   Autor : Itzcoyotl-Dev  (Alvaro)
+    *********************************************************************************************************************
 */
 //Bibliotecas
 #include <stdio.h>

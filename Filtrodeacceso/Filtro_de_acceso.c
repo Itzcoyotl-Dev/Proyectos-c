@@ -1,3 +1,11 @@
+/*
+    ********************************************************************************************************************
+    /   Nombre_Archivo : Filtro acceso
+    /   Descrpcion : proyecto que valida la entrada de usando ID como accesos 
+    /   Creado : 8/4/2026
+    /   Autor : Itzcoyotl-Dev  (Alvaro)
+    *********************************************************************************************************************
+*/
 #include <stdio.h>
 
 #define TAM 5

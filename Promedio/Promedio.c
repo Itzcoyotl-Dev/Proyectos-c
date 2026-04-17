@@ -1,5 +1,10 @@
 /*
-	Programa que pide 5 calificaciones para dar el promedio
+    ********************************************************************************************************************
+    /   Nombre_Archivo : Promedio
+    /   Descrpcion : practica usa arreglo para guardar calificaciones y sacar un promedio 
+    /   Creado : 9/4/2026
+    /   Autor : Itzcoyotl-Dev  (Alvaro)
+    *********************************************************************************************************************
 */
 #include <stdio.h>
 

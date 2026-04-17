@@ -1,6 +1,12 @@
-/* 
-    Escriba un programa en C que pida un número al usuario e indique si es par o impar.
-*/ 
+/*
+    ********************************************************************************************************************
+    /   Nombre_Archivo : pares impares
+    /   Descrpcion : practica hace uso del % modulo para enncontrar pares e impares
+    /   Creado : 9/4/2026
+    /   Autor : Itzcoyotl-Dev  (Alvaro)
+    *********************************************************************************************************************
+*/
+
 #include <stdio.h>
 int main(){
     int numero;

@@ -1,8 +1,11 @@
 /*
-	Calculadora, este programa realiza operaciones simples 
-	Estas se muestran como un menú interactivo donde el usuario puede
-	seleccionar la operacion deseada, e inglesar valores para
-	 obtener un resultado.
+    ********************************************************************************************************************
+    /   Nombre_Archivo : Calculadora
+    /   Descrpcion : Proyecto de un menu interactivo que permite hacer operaciones basicas y demuestra el comportamiento
+	/				de las estructuras de control de ciclos y decision 
+    /   Creado : 5/4/2026
+    /   Autor : Itzcoyotl-Dev  (Alvaro)
+    *********************************************************************************************************************
 */
 
 //Bloque de Bibliotecas
@@ -34,7 +37,7 @@ int main(){
 	do{
 		a=0,b=0,c=0;
 		do{
-			//menú
+			//menï¿½
 			printf("\t Calculadora\n");
 			printf("1 Suma.\n");
 			printf("2 Resta.\n");
@@ -42,7 +45,7 @@ int main(){
 			printf("4 Division.\n");
 			printf("Elija su opcion:");
 			scanf("%d",&opc);
-			//sentencia de desición se muestra cuando el usuario no elije una opción mostrada  
+			//sentencia de desiciï¿½n se muestra cuando el usuario no elije una opciï¿½n mostrada  
 			if(opc<1||opc>4){
 				printf("\nopcion incorrecta elija nuevamente.\n");
 			}
@@ -59,7 +62,7 @@ int main(){
 			c=Operacion(a,b,opc);
 			printf("Resultado: %.2f",c);
 		}
-		//mensaje que se muetra para retornar al menú o salir del programa
+		//mensaje que se muetra para retornar al menï¿½ o salir del programa
 		printf("\n\nVolver al menu digite 1 o cualquier numero para salir:");
 		scanf("%d",&opc);
 	}while(opc==1);

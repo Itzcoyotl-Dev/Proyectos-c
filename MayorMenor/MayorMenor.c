@@ -1,3 +1,12 @@
+/*
+    ********************************************************************************************************************
+    /   Nombre_Archivo : MayorMenor
+    /   Descrpcion : practica que busca el mayor y menor en un arreglo unidimencional
+    /   Creado : 8/4/2026
+    /   Autor : Itzcoyotl-Dev  (Alvaro)
+    *********************************************************************************************************************
+*/
+
 #include <stdio.h>
 #define TAM 6
 

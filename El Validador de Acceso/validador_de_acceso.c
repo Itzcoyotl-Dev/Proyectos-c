@@ -1,3 +1,12 @@
+/*
+    ********************************************************************************************************************
+    /   Nombre_Archivo : Validador de acceso
+    /   Descrpcion : proyecto que valida la entrada de un usuario usando arreglos bidimencionales 
+	/				tipo char como Strings 
+    /   Creado : 7/4/2026
+    /   Autor : Itzcoyotl-Dev  (Alvaro)
+    *********************************************************************************************************************
+*/
 #include <stdio.h>
 #include <string.h>
 #define TAM 100
@@ -22,7 +31,7 @@ int main(void){
 		}
 		if(bandera!=1){
 			intentos++;
-			printf("Credenciales Inválidas \n");
+			printf("Credenciales Invï¿½lidas \n");
 			printf("Intento %d\n",intentos);
 		}
 	}while(intentos<3&&bandera==0);

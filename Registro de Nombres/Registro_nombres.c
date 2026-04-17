@@ -1,3 +1,12 @@
+/*
+    ********************************************************************************************************************
+    /   Nombre_Archivo : Registro de nombres
+    /   Descrpcion : practica muestra como se resgirstan palabras con espacios en c para un arreglo bidimencional
+	/				para ingresar nombres o mas bien cadenas con espacios
+    /   Creado : 12/4/2026
+    /   Autor : Itzcoyotl-Dev  (Alvaro)
+    *********************************************************************************************************************
+*/
 #include <stdio.h>
 #include <String.h>
 #define TAM 5
